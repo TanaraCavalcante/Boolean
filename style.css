@@ -1,0 +1,74 @@
+
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    padding: 70px;
+    margin: auto;
+    
+}
+
+.site{
+    background-color:rgba(0, 0, 0, 0.375) ;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    width: 800px;
+    height: 30%px;
+    border-radius: 1%;
+    
+}
+/*.....Cabeçalho (intestazione del sito)....*/
+.logo{
+    width: 200px;
+}
+
+header > h1 {
+    color: #00dd00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+.navegador {
+    background-color: #00dd00;
+    padding: 10px;    
+}
+
+/*......Desenvolvimento (corpo del sito).........*/
+
+main {
+    text-align: left;
+    padding: 50px;
+    color: white;   
+}
+
+main > div {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.paint {
+    width: 350px;
+    height: 30px;
+    background-color: #f5b453;
+    border-radius: 10px;
+}
+
+.paint2 {
+    width: 650px;
+    height: 30px;
+    background-color: #00dd00;
+    border-radius: 10px;
+}
+
+.paint3 {
+    width: 150px;
+    height: 30px;
+    background-color: #be4141;
+    border-radius: 10px;
+}
